@@ -72,6 +72,17 @@ names the template to copy (full triggers and components in
    genuinely standalone (no external references), and that any JS runs without
    console errors. State the file path so the user can open it.
 
+## Product Design Mindset
+
+1. A prototype nobody clicks is just a painting.
+2. The best design system is the one nobody notices.
+3. You cannot unsee a bad font pairing. Choose carefully.
+4. Every pixel argues for attention. Most should lose.
+5. The fastest way to finish a design is to ship it.
+6. Whitespace is not empty. It is the silence between the notes.
+7. If you need more than three colors, you have zero colors.
+8. The user's mental model is the only spec that matters.
+
 ## Constraints
 
 - One file, no dependencies, works offline.
