@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Artifacts"
+  short_description: "Create Thariq-style HTML artifacts"
+  default_prompt: "Use $html-artifacts to turn this dense plan, review, or comparison into a self-contained HTML artifact."
